@@ -1,8 +1,10 @@
-заходим в репозиторий:
+Заходим в репозиторий:
 b04-206@raspberrypi:~ $ cd Repositories/Anisimov/
 
-Создаем ветку, проверяем:
+Создаем ветку:
 b04-206@raspberrypi:~/Repositories/Anisimov $ git branch Dorofeev
+
+Проверяем:
 b04-206@raspberrypi:~/Repositories/Anisimov $ git branch --all
   Dorofeev
 * master
